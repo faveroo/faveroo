@@ -29,9 +29,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tec
 
 
 ### 🔥 Streak Stats
-<div>
-  <img src="https://streak-stats.demolab.com/?user=faveroo&theme=dracula" height="150"/>
-</div>
+  [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=faveroo&theme=dark)](https://git.io/streak-stats)
 
 ---
 
