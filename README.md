@@ -22,7 +22,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tec
 ### 📊 Estatísticas do GitHub
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=faveroo&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faveroo&layout=compact&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faveroo&layout=compact&theme=dark" height="150"/>
 </div>
 
 ---
@@ -30,7 +30,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tec
 
 ### 🔥 Streak Stats
 <div>
-  <img src="https://streak-stats.demolab.com/?user=faveroo&theme=dark" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=faveroo&theme=dracula" height="150"/>
 </div>
 
 ---
