@@ -1,6 +1,6 @@
-# Olá, eu sou o Gabriel 👋
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&color=E5FF61FF&vCenter=true&width=800&lines=Hello,+i'm+Geovane+Rigonato!;Be+welcome+to+my+GitHub.+I+hope+you+enjoy!)](https://git.io/typing-svg)
+##
+## Olá, sou Gabriel Favero Hoffmann! Sou estudante de análise e desenvolvimento de sistemas . :books:
 
 ---
 
