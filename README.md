@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&color=E5FF61FF&vCenter=true&width=800&lines=Ola,+sou+Gabriel+Favero+Hoffmann!;Seja+bem-vindo+ao+meu+GitHub.+Espero+que+goste!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&color=89CFF0&vCenter=true&width=800&lines=Ola,+sou+Gabriel+Favero+Hoffmann!;Seja+bem-vindo+ao+meu+GitHub.+Espero+que+goste!)](https://git.io/typing-svg)
 
 
 ---
