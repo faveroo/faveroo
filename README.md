@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&color=E5FF61FF&vCenter=true&width=800&lines=Ola,+sou+Gabriel+Favero+Hoffmann!;Seja+bem-vindo+ao+meu+GitHub.+Espero+que+goste!)](https://git.io/typing-svg)
 
-##
-## Olá, sou Gabriel Favero Hoffmann! Sou estudante de análise e desenvolvimento de sistemas . :books:
 
 ---
 
