@@ -18,7 +18,7 @@
 ### 📊 Estatísticas do GitHub
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=faveroo&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faveroo&layout=compact&theme=darkk&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faveroo&layout=compact&theme=darkk" height="150"/>
 </div>
 
 ---
