@@ -20,7 +20,8 @@
 
 ### 📊 Estatísticas do GitHub
 <div>
-<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faveroo&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faveroo"/>
+  
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=faveroo&show_icons=true&theme=dark&include_all_commits=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faveroo&layout=compact&theme=dark&cache_seconds=1800" height="150"/> -->
 </div>
