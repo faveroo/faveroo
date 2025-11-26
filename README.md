@@ -14,6 +14,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
+
+<!--
 ---
 
 ### 📊 Estatísticas do GitHub
@@ -22,6 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faveroo&layout=compact&theme=dark&cache_seconds=1800" height="150"/>
 </div>
 
+-->
 ---
 
 
