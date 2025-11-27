@@ -15,7 +15,6 @@
 </p>
 
 
-<!--
 ---
 
 ### 📊 Estatísticas do GitHub
@@ -23,7 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=faveroo&show_icons=true&theme=dark&include_all_commits=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faveroo&layout=compact&theme=dark&cache_seconds=1800" height="150"/>
 </div>
- -->
 
 ---
 
