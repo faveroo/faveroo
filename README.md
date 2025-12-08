@@ -5,13 +5,13 @@
 <h3 align="center">🚀 Linguagens e Tecnologias</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55"/>
 </p>
 
 
