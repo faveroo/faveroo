@@ -15,21 +15,7 @@
 </p>
 
 
-```graphql
-{
-  user(login: "faveroo") {
-    repositories(first: 100) {
-      nodes {
-        languages(first: 5, orderBy: {field: SIZE, direction: DESC}) {
-          edges {
-            size
-            node { name }
-          }
-        }
-      }
-    }
-  }
-}
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faveroo&show_icons=true&theme=tokyonight" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faveroo&layout=compact&theme=tokyonight" /> </p>
 ---
 
 
