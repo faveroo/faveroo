@@ -15,6 +15,21 @@
 </p>
 
 
+```graphql
+{
+  user(login: "faveroo") {
+    repositories(first: 100) {
+      nodes {
+        languages(first: 5, orderBy: {field: SIZE, direction: DESC}) {
+          edges {
+            size
+            node { name }
+          }
+        }
+      }
+    }
+  }
+}
 ---
 
 
