@@ -5,17 +5,15 @@
 <h3 align="center">🚀 Linguagens e Tecnologias</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-05122A?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/PHP-05122A?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/C%23-05122A?style=for-the-badge&logo=csharp" />
+  <img src="https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faveroo&show_icons=true&theme=tokyonight" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faveroo&layout=compact&theme=tokyonight" /> </p>
 ---
 
 
