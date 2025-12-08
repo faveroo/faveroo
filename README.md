@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&color=89CFF0&vCenter=true&width=800&lines=Ola,+sou+Gabriel+Favero+Hoffmann!;Seja+bem-vindo+ao+meu+GitHub.+Espero+que+goste!)](https://git.io/typing-svg)
 
-
 ---
+
 <h3 align="center">🚀 Linguagens e Tecnologias</h3>
 
 <p align="center">
@@ -13,11 +13,17 @@
   <img src="https://img.shields.io/badge/C%23-05122A?style=for-the-badge&logo=csharp&logoColor=239120" />
   <img src="https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
----
-
-
 
 ---
 
+<h3 align="center">📊 Estatísticas do GitHub</h3>
 
-✨ _Obrigado por visitar meu perfil!_
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faveroo&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faveroo&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<h3 align="center">✨ Obrigado por visitar meu perfil!</h3>
+<p align="center">Sinta-se à vontade para explorar meus repositórios 🚀</p>
