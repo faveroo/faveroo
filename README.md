@@ -5,14 +5,15 @@
 <h3 align="center">🚀 Linguagens e Tecnologias</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-05122A?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/PHP-05122A?style=for-the-badge&logo=php" />
-  <img src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/C%23-05122A?style=for-the-badge&logo=csharp" />
-  <img src="https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" />
 </p>
+
 
 ---
 
