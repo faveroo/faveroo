@@ -20,8 +20,9 @@
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faveroo&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faveroo&layout=compact&theme=tokyonight" />
+  <img scr="https://githubcard.com/faveroo.svg?d=uuLxJs1O" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faveroo&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faveroo&layout=compact&theme=tokyonight" /> -->
 </p>
 
 ---
