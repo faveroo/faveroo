@@ -20,10 +20,10 @@
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 
 <p align="center">
-  <img height="630px" src="https://githubcard.com/faveroo.svg?d=uuLxJs1O" />
+  <img height="630px" src="https://githubcard.com/faveroo.svg?d=fhKnpRQM" />
+  
 </p>
 
-![GitHub Card](https://githubcard.com/faveroo.svg?d=uuLxJs1O)
 
 ---
 
