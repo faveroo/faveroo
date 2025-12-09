@@ -20,7 +20,7 @@
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 
 <p align="center">
-  <img height="630px" src="https://githubcard.com/faveroo.svg?d=F5GS2x1G" />
+  <img height="630px" src="https://githubcard.com/faveroo.svg?d=oHcEo_Pj" />
 </p>
 
 
