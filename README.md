@@ -16,7 +16,7 @@
 </p>
 
 ---
-
+<!--
 <p align="center">
   <img height="500px" src="https://githubcard.com/faveroo.svg?d=X1IBtnAM" />
 </p>
@@ -24,6 +24,16 @@
 <p align="center">
   <img height="630px" src="https://githubcard.com/faveroo.svg?d=u8ir0Rhp" />
 </p>
+-->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faveroo&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faveroo&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
