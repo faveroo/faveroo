@@ -31,7 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faveroo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-
 ---
 
 <h3 align="center">✨ Obrigado por visitar meu perfil!</h3>
