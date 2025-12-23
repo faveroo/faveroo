@@ -8,11 +8,12 @@
   <img src="https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-05122A?style=for-the-badge&logo=css&logoColor=663399">
   <img src="https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/PHP-05122A?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/Laravel-05122A?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
   <img src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Laravel-05122A?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+  <img src="https://img.shields.io/badge/postgresql-05122A?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 </p>
 
 ---
