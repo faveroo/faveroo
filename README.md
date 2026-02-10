@@ -31,6 +31,7 @@
 
 <p align="center">
   <img src="profile/stats.svg" alt="Stats" />
+  <img src="profile/languages.svg" alt="Languages" />
 </p>
 
 
