@@ -30,8 +30,8 @@
 
 
 <p align="center">
-  <img src="profile/stats.svg" alt="Stats" />
-  <img src="profile/languages.svg" alt="Languages" />
+  <img src="profile/stats.svg" />
+  <img src="profile/languages.svg" />
 </p>
 
 
