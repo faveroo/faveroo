@@ -30,7 +30,7 @@
 
 
 <p align="center">
-  ![Stats](./profile/stats.svg)
+  <img src="profile/stats.svg" alt="Stats" />
 </p>
 
 
