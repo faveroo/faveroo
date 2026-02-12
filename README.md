@@ -4,8 +4,6 @@
 
 🚀 Linguagens & Tecnologias
 
-💪 Domínio
-
 <p align="center"> 
   <img src="https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5&logoColor=E34F26" /> 
   <img src="https://img.shields.io/badge/CSS3-05122A?style=for-the-badge&logo=css&logoColor=663399"> 
