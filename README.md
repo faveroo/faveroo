@@ -2,16 +2,24 @@
 
 ---
 
-<h3 align="center">🚀 Linguagens e Tecnologias</h3>
+🚀 Linguagens & Tecnologias
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-05122A?style=for-the-badge&logo=css&logoColor=663399">
-  <img src="https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/PHP-05122A?style=for-the-badge&logo=php&logoColor=777BB4" />
-  <img src="https://img.shields.io/badge/Laravel-05122A?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
-  <img src="https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white" />
+💪 Domínio
+
+<p align="center"> 
+  <img src="https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5&logoColor=E34F26" /> 
+  <img src="https://img.shields.io/badge/CSS3-05122A?style=for-the-badge&logo=css&logoColor=663399"> 
+  <img src="https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+  <img src="https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=339933" /> 
+  <img src="https://img.shields.io/badge/PHP-05122A?style=for-the-badge&logo=php&logoColor=777BB4" /> 
+  <img src="https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white" /> 
+</p>
+  
+📚 Aprendendo
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Laravel-1E1E1E?style=for-the-badge&logo=laravel&logoColor=FF2D20" /> 
+  <img src="https://img.shields.io/badge/Vue.js-1E1E1E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> 
+  <img src="https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
 </p>
 
 ---
