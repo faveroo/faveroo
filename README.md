@@ -2,7 +2,7 @@
 
 ---
 
-🚀 Linguagens & Tecnologias
+## 🚀 Linguagens & Tecnologias
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5&logoColor=E34F26" /> 
@@ -12,13 +12,18 @@
   <img src="https://img.shields.io/badge/PHP-05122A?style=for-the-badge&logo=php&logoColor=777BB4" /> 
   <img src="https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white" /> 
 </p>
-  
-📚 Aprendendo
+
+---
+
+## 📚 Aprendendo
+
 <p align="center"> 
   <img src="https://img.shields.io/badge/Laravel-1E1E1E?style=for-the-badge&logo=laravel&logoColor=FF2D20" /> 
   <img src="https://img.shields.io/badge/Vue.js-1E1E1E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> 
   <img src="https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+  <img src="https://img.shields.io/badge/Livewire-1E1E1E?style=for-the-badge&logo=laravel&logoColor=FB70A9" />
 </p>
+
 
 ---
 
