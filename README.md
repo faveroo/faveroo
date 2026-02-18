@@ -46,4 +46,3 @@
 ---
 
 <h3 align="center">✨ Obrigado por visitar meu perfil!</h3>
-<p align="center">Sinta-se à vontade para explorar meus repositórios 🚀</p>
