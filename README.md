@@ -30,7 +30,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por cons
 
 ### Core Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql,py,c" />
 </p>
 
 ### Expandindo o Horizonte (Learning)
