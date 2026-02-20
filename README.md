@@ -1,57 +1,59 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=36&pause=1000&color=89CFF0&center=true&vCenter=true&width=900&lines=Olá,+sou+Gabriel+Favero+Hoffmann!;Seja+bem-vindo+ao+meu+GitHub+🚀;Desenvolvedor+em+formação+full+stack)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:1F6FEB&height=200&section=header&text=Gabriel%20Favero%20Hoffmann&fontSize=50&animation=fadeIn" />
+
+  <h3>Full Stack Developer in Training 🚀</h3>
+  <p>Transformando ideias em código e café em soluções eficientes.</p>
+
+  <p align="center">
+    <!-- <a href="https://www.linkedin.com/in/SEU_LINK_AQUI">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a> -->
+    <a href="mailto:gabriel290974@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre Mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Focado em **desenvolvimento web full stack**  
-🚀 Buscando evoluir com projetos práticos e bem estruturados  
-📍 Brasil
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por construir aplicações que resolvem problemas reais. Atualmente, meu foco está no ecossistema **Full Stack**, equilibrando a robustez do Back-end com a fluidez do Front-end.
+
+* 📍 Brasil.
+* 🎓 Focado em arquitetura de software e boas práticas.
+* 🌱 Em constante evolução com **Laravel, Vue e React**.
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 🛠️ Stack Tecnológica
 
-<p align="center"> 
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" /> 
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" /> 
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" /> 
-  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" /> 
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white" /> 
+### Core Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql" />
+</p>
+
+### Expandindo o Horizonte (Learning)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,vue,react,git,docker" />
 </p>
 
 ---
 
-## 📚 Atualmente aprendendo
+## 📊 Atividade no GitHub
 
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20" /> 
-  <img src="https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> 
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-</p>
-
----
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions Dark" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" width="100%" />
 </p>
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="./profile/stats.svg" />
-  <img height="170" src="./profile/languages.svg" />
-</p>
-
----
-
-## ✨ Obrigado por visitar meu perfil!
-
-<p align="center">
+<div align="center">
+  <p><i>"A única maneira de fazer um excelente trabalho é amar o que você faz."</i></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:1F6FEB&height=100&section=footer"/>
-</p>
+</div>
