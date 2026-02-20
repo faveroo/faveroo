@@ -42,10 +42,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por cons
 
 ## 📊 Atividade no GitHub
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</div> -->
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" width="100%" />
