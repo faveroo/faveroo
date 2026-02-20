@@ -36,7 +36,7 @@
 
 
 <p align="center">
-  <img src="./profile-3d-contrib/faveroo-night.svg" alt="3D GitHub Contributions Dark" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions Dark" />
 </p>
 
 ---
@@ -44,8 +44,8 @@
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=faveroo&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faveroo&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="./stats.svg" />
+  <img height="170" src="./languages.svg" />
 </p>
 
 ---
