@@ -1,48 +1,57 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&color=89CFF0&vCenter=true&width=800&lines=Ola,+sou+Gabriel+Favero+Hoffmann!;Seja+bem-vindo+ao+meu+GitHub.+Espero+que+goste!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=36&pause=1000&color=89CFF0&center=true&vCenter=true&width=900&lines=Olá,+sou+Gabriel+Favero+Hoffmann!;Seja+bem-vindo+ao+meu+GitHub+🚀;Desenvolvedor+em+formação+full+stack)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 Linguagens & Tecnologias
+## 👨‍💻 Sobre mim
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Focado em **desenvolvimento web full stack**  
+🚀 Buscando evoluir com projetos práticos e bem estruturados  
+📍 Brasil
+
+---
+
+## 🚀 Tecnologias que utilizo
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5&logoColor=E34F26" /> 
-  <img src="https://img.shields.io/badge/CSS3-05122A?style=for-the-badge&logo=css&logoColor=663399"> 
-  <img src="https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
-  <img src="https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=339933" /> 
-  <img src="https://img.shields.io/badge/PHP-05122A?style=for-the-badge&logo=php&logoColor=777BB4" /> 
-  <img src="https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" /> 
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" /> 
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" /> 
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" /> 
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white" /> 
 </p>
 
 ---
 
-## 📚 Aprendendo
+## 📚 Atualmente aprendendo
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Laravel-1E1E1E?style=for-the-badge&logo=laravel&logoColor=FF2D20" /> 
-  <img src="https://img.shields.io/badge/Vue.js-1E1E1E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> 
-  <img src="https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+  <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20" /> 
+  <img src="https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> 
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
 </p>
-
 
 ---
 
-<!--
-<p align="center">
-  <img height="500px" src="https://githubcard.com/faveroo.svg?d=X1IBtnAM" />
-</p>
 
 <p align="center">
-  <img height="630px" src="https://githubcard.com/faveroo.svg?d=u8ir0Rhp" />
+  <img src="./profile-3d-contrib/faveroo-night.svg" alt="3D GitHub Contributions Dark" />
 </p>
--->
-
-
-<p align="center">
-  <img src="profile/stats.svg" />
-  <img src="profile/languages.svg" />
-</p>
-
 
 ---
 
-<h3 align="center">✨ Obrigado por visitar meu perfil!</h3>
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=faveroo&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faveroo&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## ✨ Obrigado por visitar meu perfil!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:1F6FEB&height=100&section=footer"/>
+</p>
