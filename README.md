@@ -43,8 +43,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por cons
 ## 📊 Atividade no GitHub
 
  <div align="center">
-  <img height="180em" src="./profile/stats"/>
-  <img height="180em" src="./profile/languages"/>
+  <img height="180em" src="./profile/stats.svg"/>
+  <img height="180em" src="./profile/languages.svg"/>
 </div>
 <!--
 <p align="center">
