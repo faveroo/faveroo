@@ -42,15 +42,16 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por cons
 
 ## 📊 Atividade no GitHub
 
+<!--
  <div align="center">
   <img height="180em" src="./profile/stats.svg"/>
   <img height="180em" src="./profile/languages.svg"/>
 </div>
-<!--
+-->
+
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contributions" width="100%" />
 </p>
--->
 
 ---
 
