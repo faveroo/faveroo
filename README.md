@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:1F6FEB&height=220&section=header&text=Gabriel%20Favero%20Hoffmann&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20ADS%20Student&descAlignY=58&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:1F6FEB&height=220&section=header&text=Gabriel%20Favero%20Hoffmann&fontSize=45&animation=fadeIn&fontAlignY=38&desc=ADS%20Student&descAlignY=58&descAlign=62" />
   
   <p align="center">
     <i>Transformando ideias em código e café em soluções eficientes. ☕🚀</i>
