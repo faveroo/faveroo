@@ -24,7 +24,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por cons
 * 🎓 Focado em arquitetura de software e boas práticas.
 * 🌱 Em constante evolução com **Laravel, Vue e React**.
 
----
 
 ## 🛠️ Stack Tecnológica
 
@@ -37,8 +36,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por cons
 <p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,vue,react,git,docker" />
 </p>
-
----
 
 ## 📊 Atividade no GitHub
 
@@ -53,7 +50,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por cons
 </p>
 -->
 
----
 
 <div align="center">
   <p><i>"A única maneira de fazer um excelente trabalho é amar o que você faz."</i></p>
