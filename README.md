@@ -1,62 +1,100 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:1F6FEB&height=220&section=header&text=Gabriel%20Favero%20Hoffmann&fontSize=45&animation=fadeIn&fontAlignY=38&desc=ADS%20Student&descAlignY=58&descAlign=62" />
-  
-  <p align="center">
-    <i>Transformando ideias em código e café em soluções eficientes. ☕🚀</i>
-  </p>
 
-  <p align="center">
-    <a href="mailto:gabriel290974@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <!-- Descomente e adicione seu link do LinkedIn abaixo -->
-    <!--
-    <a href="https://www.linkedin.com/in/SEU_LINK_AQUI">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    -->
-    <!-- Descomente e adicione seu portfólio, se tiver -->
-    <!--
-    <a href="https://seu-portfolio.com">
-      <img src="https://img.shields.io/badge/Portfólio-252F3F?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
-    </a>
-    -->
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Gabriel%20Favero%20Hoffmann&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Student%20|%20Backend%20Focus&descAlignY=58&descAlign=50"/>
+
+### 💻 Transformando ideias em código
+
+ADS Student • Backend Enthusiast • Laravel Developer
+
 </div>
 
-<br>
+---
 
-## 📊 Atividade no GitHub
+# 👨‍💻 Sobre mim
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+
+💡 Interesse principal em **desenvolvimento backend**
+
+⚙️ Atualmente desenvolvendo aplicações com **Laravel, PHP e APIs**
+
+📚 Sempre estudando novas tecnologias e boas práticas de desenvolvimento
+
+---
+
+# 🚀 Tecnologias
+
+## 🧠 Linguagens
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,js,html,css,python,c&theme=dark"/>
+</p>
+
+---
+
+## ⚙️ Frameworks & Bibliotecas
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,vue,react&theme=dark"/>
+</p>
+
+---
+
+## 🗄️ Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+</p>
+
+---
+
+## 🛠️ Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark"/>
+</p>
+
+---
+
+# 📚 Atualmente Aprendendo
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vue,docker&theme=dark"/>
+</p>
+
+---
+
+# 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="./profile/stats.svg" alt="GitHub Stats" />
-  <img height="180em" src="./profile/languages.svg" alt="Top Languages" />
+
+<img height="180em" src="./profile/stats.svg"/>
+<img height="180em" src="./profile/languages.svg"/>
+
 </div>
 
-<br>
+---
 
-## 🛠️ Stack Tecnológica
+# 📫 Contato
 
+<p align="center">
 
-### ⚡ Linguagens & Banco de Dados
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,py,c&perline=10" alt="Core Skills" />
+<a href="mailto:gabriel290974@gmail.com">
+<img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/faveroo">
+<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
-### 🚀 Frameworks & Bibliotecas (Utilizando/Aprendendo)
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,vue,react&perline=10" alt="Frameworks" />
-</p>
-
-### 🔧 Ferramentas & Ecossistema
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,discord&perline=10" alt="Tools" />
-</p>
-
-<br>
-<br>
+---
 
 <div align="center">
-  <p><i>"A única maneira de fazer um excelente trabalho é amar o que você faz." – Steve Jobs</i></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:1F6FEB&height=100&section=footer" />
+
+### ☕ Code. Learn. Build. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+
 </div>
