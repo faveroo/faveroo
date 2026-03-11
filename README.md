@@ -26,22 +26,11 @@
 
 <br>
 
-<div align="center">
-
-## 👨‍💻 Sobre Mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por arquitetura de software e por construir aplicações que resolvem problemas reais. Atualmente, meu foco está no ecossistema **Full Stack**, equilibrando a robustez do Back-end com a fluidez do Front-end.
-
-</div>
-
-<br>
+## 📊 Atividade no GitHub
 
 <div align="center">
-
-| 🌎 Localização | 🌱 Evoluindo Em | 🎯 Interesses |
-| :---: | :---: | :---: |
-| Brasil | Laravel, Vue, React | Arquitetura & Clean Code |
-
+  <img height="180em" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="180em" src="./profile/languages.svg" alt="Top Languages" />
 </div>
 
 <br>
@@ -63,17 +52,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por arqu
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,discord&perline=10" alt="Tools" />
 </p>
-
-<br>
-
-## 📊 Atividade no GitHub
-
-<div align="center">
-  <!-- As imagens abaixo referenciam arquivos locais que presumidamente sua GitHub Action atualiza (como no seu README original). -->
-  <img height="180em" src="./profile/stats.svg" alt="GitHub Stats" />
-  <img height="180em" src="./profile/languages.svg" alt="Top Languages" />
-  
-</div>
 
 <br>
 
