@@ -37,6 +37,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por cons
   <img src="https://skillicons.dev/icons?i=laravel,vue,react,git,docker" />
 </p>
 
+##
 ## 📊 Atividade no GitHub
 
  <div align="center">
