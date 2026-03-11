@@ -43,9 +43,11 @@ Currently Learning
 
 <br>
 
+<div align='center'>
+GitHub Stats
+</div>
 
 <div align="center">
-GitHub Stats
   <img height="170em" src="./profile/stats.svg"/>
   &nbsp;&nbsp;
   <img height="170em" src="./profile/languages.svg"/>
