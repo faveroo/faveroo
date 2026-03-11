@@ -39,17 +39,17 @@
 
 
 ### ⚡ Linguagens & Banco de Dados
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,py,c&perline=10" alt="Core Skills" />
 </p>
 
 ### 🚀 Frameworks & Bibliotecas (Utilizando/Aprendendo)
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,vue,react&perline=10" alt="Frameworks" />
 </p>
 
 ### 🔧 Ferramentas & Ecossistema
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,discord&perline=10" alt="Tools" />
 </p>
 
