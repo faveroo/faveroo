@@ -43,7 +43,7 @@ Currently Learning
 
 <br>
 
-## 📊 GitHub Stats
+GitHub Stats
 
 <div align="center">
   <img height="170em" src="./profile/stats.svg"/>
@@ -53,7 +53,7 @@ Currently Learning
 
 <br>
 
-## 📬 Get in Touch
+Get in Touch
 
 <a href="mailto:gabriel290974@gmail.com">
   <img src="https://img.shields.io/badge/gabriel290974@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
