@@ -8,20 +8,6 @@ ADS Student • Backend Focus • Laravel Developer
 
 </div>
 
----
-
-# 👨‍💻 Sobre mim
-
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-
-💡 Foco em **desenvolvimento backend**
-
-⚙️ Desenvolvendo aplicações com **Laravel, APIs e integrações**
-
-📚 Sempre estudando novas tecnologias e boas práticas de desenvolvimento
-
----
-
 # 🚀 Tech Stack
 
 <p>
