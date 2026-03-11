@@ -7,18 +7,9 @@
 <br>
 <div align="right">
 
-<pre>
-<code class="language-yaml">
-name: Gabriel Favero Hoffmann
-focus: Backend Development
-stack: [PHP, Laravel, MySQL, JavaScript]
-learning: [Docker, React, Vue.js, Node.js]
-contact: gabriel290974@gmail.com
-</code>
-</pre>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1&pause=1000&color=8B949E&lines=name:+Gabriel+Favero+Hoffmann;focus:+Backend+Development;stack:+PHP+Laravel+MySQL+JavaScript;learning:+Docker+React+Vue+Node;contact:+gabriel290974@gmail.com" />
 
 </div>
-
 <br>
 
 ## ⚙️ Tech Stack
