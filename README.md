@@ -38,9 +38,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por arqu
 
 <div align="center">
 
-| 🌎 Localização | 🎓 Formação | 🌱 Evoluindo Em | 🎯 Interesses |
-| :---: | :---: | :---: | :---: |
-| Brasil | ADS | Laravel, Vue, React | Arquitetura & Clean Code |
+| 🌎 Localização | 🌱 Evoluindo Em | 🎯 Interesses |
+| :---: | :---: | :---: |
+| Brasil | Laravel, Vue, React | Arquitetura & Clean Code |
 
 </div>
 
