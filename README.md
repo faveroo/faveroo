@@ -48,7 +48,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por arqu
 
 ## 🛠️ Stack Tecnológica
 
-Para facilitar a visualização, dividi minha stack por categorias:
 
 ### ⚡ Linguagens & Banco de Dados
 <p align="left">
