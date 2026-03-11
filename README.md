@@ -5,15 +5,17 @@
 </div>
 
 <br>
-<div align='right'>  
-  
-  ```yaml
+<div align="right">
+
+<pre>
+<code class="language-yaml">
 name: Gabriel Favero Hoffmann
 focus: Backend Development
 stack: [PHP, Laravel, MySQL, JavaScript]
 learning: [Docker, React, Vue.js, Node.js]
 contact: gabriel290974@gmail.com
-```
+</code>
+</pre>
 
 </div>
 
