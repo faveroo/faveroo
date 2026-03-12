@@ -49,8 +49,6 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
-
 <img src="./profile/stats.svg"/>
 <img width='35%' src="./profile/languages.svg"/>
 
