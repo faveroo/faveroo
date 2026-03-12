@@ -63,11 +63,13 @@ GitHub Stats
 </div>
 
 <br>
+<br>
+<br>
 
 Get in Touch
 
 <a href="mailto:gabriel290974@gmail.com">
-  <img src="https://img.shields.io/badge/gabriel290974@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <br>
