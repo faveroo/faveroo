@@ -15,7 +15,7 @@
 
 <div align="center">
 Tech Stack
-
+<br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -38,7 +38,7 @@ Tech Stack
 
 <div align="center">
 Currently Learning
-
+<br>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0D1117)
