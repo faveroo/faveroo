@@ -29,12 +29,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-E6EDF3?style=flat-square&logo=github&logoColor=0D1117)
 
---- Tech Stack
+-- Tech Stack
 </div>
 
 <br>
 
-<div>
+<div align="center">
   
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -42,7 +42,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 
---- Currently Learning
+-- Currently Learning
 </div>
 
 <br>
