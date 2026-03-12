@@ -67,6 +67,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/faveroo/faveroo/output/pacman-contribution-graph.svg">
 </picture>
 
+<br><br>
 
 <div align="center">
   
@@ -76,7 +77,6 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/SEU_ID) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)
 -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:21262D"/>
 
 </div>
