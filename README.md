@@ -56,12 +56,10 @@
 
 </div>
 
-<br><br>
+<br><br><br>
 
 
 <div align='center'>
-
-### 🕹 Contribution Graph
   
 </div>
 
