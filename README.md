@@ -2,6 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=200&section=header&text=Gabriel%20Favero%20Hoffmann&fontSize=42&fontColor=E6EDF3&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%E2%80%A2%20ADS%20Student%20%E2%80%A2%20Laravel%20Enthusiast&descSize=16&descAlignY=58&descColor=8B949E"/>
 
+
+</div>
+
+<div align="right">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1&pause=1000&color=8B949E&lines=name:+Gabriel+Favero+Hoffmann;focus:+Backend+Development;stack:+PHP+Laravel+MySQL+JavaScript;learning:+Docker+React+Vue+Node;contact:+gabriel290974@gmail.com" />
 </div>
 
 ---
