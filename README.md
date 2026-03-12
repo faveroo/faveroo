@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Gabriel%20Favero%20Hoffmann&fontAlign=50&fontAlignY=40&color=0:0D1117,100:21262D&fontColor=FFFFFF&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Gabriel%20Favero%20Hoffmann&fontAlign=50&fontAlignY=40&color=0:0D1117,100:21262D&fontColor=FFFFFF&desc=PHP%20Dev&descAlignY=60&descAlign=50" />
 
 </div>
 
----
+<div align="right">
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+Node.js+%7C+JavaScript;Software+Development+Student" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=200&section=header&text=Gabriel%20Favero%20Hoffmann&fontSize=42&fontColor=E6EDF3&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%E2%80%A2%20ADS%20Student%20%E2%80%A2%20Laravel%20Enthusiast&descSize=16&descAlignY=58&descColor=8B949E"/>
 
 </div>
 
