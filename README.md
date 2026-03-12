@@ -69,9 +69,15 @@
 
 
 <div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabriel290974@email.com)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-FFCD00?logo=codeforces&logoColor=6F42C1)](https://www.beecrowd.com.br/judge/en/profile/1063786)
+<!-- 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/SEU_ID) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)
+-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:21262D"/>
 
 </div>
-
 </div>
