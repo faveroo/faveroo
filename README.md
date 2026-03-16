@@ -40,6 +40,7 @@
 
 ## 📚 Learning
 
+<img src="https://img.shields.io/badge/Symfony-1A1A1A?logo=symfony&logoColor=white&style=flat-square" height="40"/>
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" height="40"/>
 <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black&style=flat-square" height="40"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square" height="40"/>
