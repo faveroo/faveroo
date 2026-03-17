@@ -12,9 +12,11 @@
 
 <br>
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 <div align="left">
 
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" height="40"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" height="40"/>
@@ -37,9 +39,10 @@
 
 <br>
 
-<div align="right">
+<div align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-## 📚 Learning
+### 📚 Learning
 
 <img src="https://img.shields.io/badge/Symfony-1A1A1A?logo=symfony&logoColor=white&style=flat-square" height="40"/>
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" height="40"/>
@@ -49,7 +52,7 @@
 
 </div>
 
-<br><br>
+<br><br><br><br><br>
 
 <div align="center">
 
