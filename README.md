@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" height="40"/>
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" height="40"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square" height="40"/>
+<img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white&style=flat-square" height="40"/>
 
 </div>
 
