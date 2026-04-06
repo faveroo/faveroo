@@ -22,42 +22,28 @@ Currently pursuing a degree in **Systems Analysis and Development (ADS)**.
 
 </div>
 
-<br><br><br>
+<br><br>
+
+---
 
 <div align="left">
   
 ### 🚀 Tech Stack
 
-
-<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square" height="38"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square" height="38"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" height="38"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" height="38"/>
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square" height="38"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" height="38"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" height="38"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=black&style=flat-square" height="38"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" height="38"/>
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" height="38"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square" height="38"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,nodejs,html,css,git,github,githubactions,python,c&theme=dark" />
 
 </div>
 
----
 
 <div align="right">
   
 ### 📚 Currently Learning
 
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" height="38"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" height="38"/>
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" height="38"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square" height="38"/>
-<img src="https://img.shields.io/badge/Symfony-1A1A1A?logo=symfony&logoColor=white&style=flat-square" height="38"/>
+<img src="https://skillicons.dev/icons?i=docker,react,vue,ts,symfony&theme=dark" />
 
 </div>
+
+---
 
 <br><br>
 
@@ -68,7 +54,7 @@ Currently pursuing a degree in **Systems Analysis and Development (ADS)**.
 
 </div>
 
----
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faveroo/faveroo/output/pacman-contribution-graph-dark.svg">
@@ -76,11 +62,12 @@ Currently pursuing a degree in **Systems Analysis and Development (ADS)**.
   <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/faveroo/faveroo/output/pacman-contribution-graph.svg">
 </picture>
 
----
+##
 
-### 📫 Contact
 
 <div align="center">
+  
+### 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:gabriel290974@email.com)
 [![Beecrowd](https://img.shields.io/badge/Beecrowd-FFCD00?style=flat-square)](https://www.beecrowd.com.br/judge/en/profile/1063786)
