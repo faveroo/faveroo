@@ -34,7 +34,6 @@ Currently pursuing a degree in **Systems Analysis and Development (ADS)**.
 
 </div>
 
-
 <div align="right">
   
 ### 📚 Currently Learning
@@ -44,8 +43,6 @@ Currently pursuing a degree in **Systems Analysis and Development (ADS)**.
 </div>
 
 ---
-
-<br><br>
 
 <div align="center">
 
