@@ -14,7 +14,7 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<div align="left">
+<div align="center">
 
 <br>
 
@@ -41,7 +41,7 @@
 
 <br>
 
-<div align="left">
+<div align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### 📚 Learning
@@ -54,12 +54,12 @@
 
 </div>
 
-<br><br><br><br><br>
+<br><br>
 
 <div align="center">
 
 <img src="./profile/stats.svg"/>
-<img width='35%' src="./profile/languages.svg"/>
+<img src="./profile/languages.svg"/>
 
 </div>
 
