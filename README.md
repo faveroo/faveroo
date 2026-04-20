@@ -67,7 +67,7 @@ Currently pursuing a degree in **Systems Analysis and Development (ADS)**.
 ### 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:gabriel290974@email.com)
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-FFCD00?style=flat-square)](https://www.beecrowd.com.br/judge/en/profile/1063786)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-FFCD00?style=flat-square)](https://judge.beecrowd.com/pt/profile/1063786)
 
 </div>
 
