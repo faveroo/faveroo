@@ -16,18 +16,18 @@ jobs:
       matrix:
         repo:
           - TinyQL
-          - fluent-data
+          - FinanceApp
+          - CollectionPHP
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate repo card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: repo
-          options: username=${{ github.repository_owner }}&repo=${{ matrix.repo }}&bg_color=00000000&hide_border=true&theme=transparent&cache_seconds=86400
-          path: profile/repos/${{ matrix.repo }}.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create repo cards
+        run: |
+          mkdir -p profile/repos
+
+          curl -o profile/repos/${{ matrix.repo }}.svg \
+          "https://github-readme-stats.vercel.app/api/pin/?username=${{ github.repository_owner }}&repo=${{ matrix.repo }}&theme=transparent&bg_color=00000000&hide_border=true"
 
       - name: Commit cards
         run: |
