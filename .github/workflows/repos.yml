@@ -24,10 +24,8 @@ jobs:
         run: |
           mkdir -p profile/repos
 
-          curl -L \
-          -H "User-Agent: github-actions" \
-          -o profile/repos/${{ matrix.repo }}.svg \
-          "https://github-readme-stats.vercel.app/api/pin/?username=${{ github.repository_owner }}&repo=${{ matrix.repo }}&theme=transparent&bg_color=00000000&hide_border=true"
+          curl -L -o profile/repos/${{ matrix.repo }}.svg \
+          "https://github-readme-stats.vercel.app/api/pin/?username=${{ github.repository_owner }}&repo=${{ matrix.repo }}&theme=transparent&bg_color=00000000&hide_border=true"  
 
       - name: Commit cards
         run: |
