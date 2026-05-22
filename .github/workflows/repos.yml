@@ -15,9 +15,7 @@ jobs:
     strategy:
       matrix:
         repo:
-          - TinyQL
-          - FinanceApp
-          - CollectionPHP
+          - fluent-data
 
     steps:
       - uses: actions/checkout@v4
