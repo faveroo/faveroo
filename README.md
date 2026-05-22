@@ -61,6 +61,33 @@ Currently pursuing a degree in **Systems Analysis and Development (ADS)**.
 
 <div align="center">
 
+
+### ⭐ Featured Project
+<table>
+<tr>
+<td width="600px" align="left">
+
+### fluent-data
+
+Fluent and expressive PHP collection utilities inspired by Laravel Collections.
+
+<img src="https://img.shields.io/badge/PHP-8+-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge" /> -->
+
+<a href="https://github.com/faveroo/fluent-data">
+  <img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="./profile/stats.svg" />
 <img src="./profile/languages.svg" />
 
