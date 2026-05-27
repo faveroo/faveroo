@@ -16,8 +16,7 @@
 
 ### 👨‍💻 About Me
 
-Backend-focused developer, passionate about building scalable and well-structured applications.  
-Strong experience with **PHP, Laravel, MySQL**, and solid foundations in **software development and algorithms**.  
+Backend-focused developer, passionate about building scalable and well-structured applications.
 Currently pursuing a degree in **Systems Analysis and Development (ADS)**.
 
 </div>
