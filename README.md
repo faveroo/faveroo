@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-Backend-focused developer, passionate about building scalable and well-structured applications.
+Backend-focused developer, passionate about building scalable and well-structured applications. <br>
 Currently pursuing a degree in **Systems Analysis and Development (ADS)**.
 
 </div>
