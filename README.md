@@ -62,7 +62,7 @@ Currently pursuing a degree in **Systems Analysis and Development (ADS)**.
 
 <img src="./profile/stats.svg" />
 <img src="./profile/languages.svg" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faveroo&theme=transparent" />
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faveroo&theme=transparent" /> -->
 
 </div>
 
