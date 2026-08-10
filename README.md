@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=Backend+Developer+focused+on+PHP+%26+Laravel;Experience+with+REST+APIs+and+MySQL;Currently+learning+Docker%2C+React+and+Vue;Always+improving+code+quality+and+architecture" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=Backend+Developer+focused+on+PHP+%26+Laravel;Currently+learning+Laravel%2C+React+and+Vue;Always+improving+code+quality+and+architecture" />
 
 </div>
 
@@ -78,7 +78,7 @@ Currently pursuing a degree in **Systems Analysis and Development (ADS)**.
 
 <div align="center">
 
-### ⭐ Featured Project
+<!-- ### ⭐ Featured Project
 <table>
 <tr>
 <td width="400px" align="left">
@@ -87,7 +87,7 @@ Currently pursuing a degree in **Systems Analysis and Development (ADS)**.
 <img src="https://img.shields.io/badge/PHP-8+-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/github/actions/workflow/status/faveroo/fluent-data/ci.yml?style=for-the-badge&label=tests" />
 <!-- <img src="https://img.shields.io/github/last-commit/faveroo/fluent-data?style=for-the-badge" />
- <img src="https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge" /> -->
+ <img src="https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge" /> 
 
 <br>
 
@@ -97,7 +97,7 @@ Currently pursuing a degree in **Systems Analysis and Development (ADS)**.
 
 </td>
 </tr>
-</table>
+</table> -->
 
 </div>
 
