@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution snake</title>
+  <desc id="desc">This file is replaced automatically by the contribution snake workflow.</desc>
+  <rect width="900" height="140" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <text x="450" y="64" text-anchor="middle" fill="#f0f6fc" font-size="18" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-weight="600">Contribution snake</text>
+  <text x="450" y="92" text-anchor="middle" fill="#8b949e" font-size="14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">generated automatically on the next workflow run</text>
+</svg>
