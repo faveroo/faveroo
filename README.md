@@ -1,120 +1,138 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=180&section=header&text=Gabriel%20Favero%20Hoffmann&fontSize=40&fontColor=E6EDF3&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20•%20ADS%20Student%20•%20Laravel%20Enthusiast&descSize=15&descAlignY=58&descColor=8B949E"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=Backend+Developer+focused+on+PHP+%26+Laravel;Currently+learning+Laravel%2C+React+and+Vue;Always+improving+code+quality+and+architecture" />
-
+  <img src="./assets/header.svg" width="100%" alt="Gabriel Favero — Backend Developer · PHP · Laravel" />
 </div>
 
 <br>
 
 <div align="center">
-
-### 👨‍💻 About Me
-
-Backend-focused developer, passionate about building scalable and well-structured applications. <br>
-Currently pursuing a degree in **Systems Analysis and Development (ADS)**.
-
+  <img src="./assets/terminal.svg" width="820" alt="Animated developer terminal" />
 </div>
 
-<br><br>
+## About me
 
----
+Backend developer working primarily with **PHP** and **Laravel**, with a focus on **APIs, software architecture, automation, code quality and developer tooling**. I am currently pursuing a degree in **Systems Analysis and Development (ADS)** and use my public repositories to explore maintainable application design, reusable packages and engineering workflows.
 
-<div align="left">
-  
-### 🚀 Tech Stack
+## Tech stack
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<table>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="24" alt="PHP" />
+      &nbsp;PHP&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="24" alt="Laravel" />
+      &nbsp;Laravel&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="24" alt="Composer" />
+      &nbsp;Composer
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data & APIs</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="24" alt="MySQL" />
+      &nbsp;MySQL&nbsp;&nbsp;·&nbsp;&nbsp;REST APIs&nbsp;&nbsp;·&nbsp;&nbsp;Laravel Sanctum
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="24" alt="React" />
+      &nbsp;React&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="24" alt="TypeScript" />
+      &nbsp;TypeScript&nbsp;&nbsp;·&nbsp;&nbsp;Inertia.js
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Quality & tooling</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="24" alt="Git" />
+      &nbsp;Git&nbsp;&nbsp;·&nbsp;&nbsp;GitHub Actions&nbsp;&nbsp;·&nbsp;&nbsp;Pest / PHPUnit&nbsp;&nbsp;·&nbsp;&nbsp;PHPStan / Larastan&nbsp;&nbsp;·&nbsp;&nbsp;Laravel Pint
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Also used</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="24" alt="Python" />
+      &nbsp;Python
+    </td>
+  </tr>
+</table>
 
-</div>
+## Featured projects
 
-<div align="right">
-  
-### 📚 Currently Learning
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./profile/stats.svg" />
-<img src="./profile/languages.svg" />
-<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faveroo&theme=transparent" /> -->
-
-</div>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faveroo/faveroo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faveroo/faveroo/output/pacman-contribution-graph.svg">
-  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/faveroo/faveroo/output/pacman-contribution-graph.svg">
-</picture>
-
-##
-
-<div align="center">
-
-<!-- ### ⭐ Featured Project
 <table>
 <tr>
-<td width="400px" align="left">
+<td width="50%" valign="top">
 
-## fluent-data
-<img src="https://img.shields.io/badge/PHP-8+-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/github/actions/workflow/status/faveroo/fluent-data/ci.yml?style=for-the-badge&label=tests" />
-<!-- <img src="https://img.shields.io/github/last-commit/faveroo/fluent-data?style=for-the-badge" />
- <img src="https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge" /> 
+### [Eventide](https://github.com/faveroo/eventide)
 
-<br>
+Application monitoring and incident-management platform for development teams, built around health checks, application events and external integrations.
 
-<a href="https://github.com/faveroo/fluent-data">
-  <img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**Why it is interesting:** explores event-driven architecture, queues, webhooks, API authentication, detection rules, multi-tenancy and observability in Laravel.
+
+</td>
+<td width="50%" valign="top">
+
+### [fluent-data](https://github.com/faveroo/fluent-data)
+
+Reusable PHP package for expressive data manipulation through fluent collections, DTO mapping, validation attributes, array helpers and pipelines.
+
+**Why it is interesting:** package-oriented design backed by PHPUnit, PHPStan and automated formatting checks.
 
 </td>
 </tr>
-</table> -->
+<tr>
+<td width="50%" valign="top">
 
-</div>
+### [ai-commit-gen](https://github.com/faveroo/ai-commit-gen)
 
+Laravel Zero CLI that uses AI to generate Git commit messages and assist with code-review feedback.
 
-<!-- <div align="center">
-  
-### 📫 Contact
+**Why it is interesting:** combines developer experience, automation, Git workflows and a distributable PHP command-line application.
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:gabriel290974@email.com)
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-FFCD00?style=flat-square)](https://judge.beecrowd.com/pt/profile/1063786)
+</td>
+<td width="50%" valign="top">
 
-</div>
+### [bill-subscription-manager](https://github.com/faveroo/bill-subscription-manager)
 
--->
+Full-stack recurring-expense manager using Laravel 13, React, Inertia.js and TypeScript.
+
+**Why it is interesting:** models subscription lifecycles, billing history and notifications while keeping linting, formatting, type checks and tests in the development workflow.
+
+</td>
+</tr>
+</table>
+
+## GitHub & open-source activity
 
 <div align="center">
+  <img src="./assets/generated/metrics.svg" width="800" alt="Automatically generated GitHub profile metrics" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D1117,100:21262D"/>
+### Recent work
 
+<!-- RECENT-WORK:START -->
+- **[eventide](https://github.com/faveroo/eventide)** — Application monitoring and incident-management platform focused on backend architecture. `PHP`
+- **[fluent-data](https://github.com/faveroo/fluent-data)** — Fluent data utilities, DTO mapping and validation for modern PHP. `PHP`
+- **[ai-commit-gen](https://github.com/faveroo/ai-commit-gen)** — AI-assisted commit-message and code-review CLI. `PHP`
+<!-- RECENT-WORK:END -->
+
+<sub>This section and the metrics card are refreshed automatically from public GitHub repository data.</sub>
+
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="./dist/github-contribution-grid-snake.svg">
+</picture>
+
+## Contact
+
+The best way to reach me around code or open-source work is through **GitHub** — repositories, issues and discussions are all public on [@faveroo](https://github.com/faveroo).
+
+---
+
+<div align="center">
+  <sub>Backend engineering · PHP · Laravel · APIs · automation · clean code</sub>
 </div>
