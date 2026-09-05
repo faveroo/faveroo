@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Gabriel Favero — Backend Developer</title>
+  <desc id="desc">Profile header for Gabriel Favero, focused on PHP and Laravel backend engineering.</desc>
+  <defs>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#2f81f7" stop-opacity=".20"/>
+      <stop offset="1" stop-color="#8b949e" stop-opacity=".04"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8b949e" stroke-opacity=".10" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="260" rx="24" fill="#0d1117"/>
+  <rect width="1200" height="260" rx="24" fill="url(#grid)"/>
+  <rect x="34" y="34" width="1132" height="192" rx="18" fill="url(#fade)" stroke="#30363d"/>
+  <circle cx="70" cy="65" r="5" fill="#f85149"/><circle cx="90" cy="65" r="5" fill="#d29922"/><circle cx="110" cy="65" r="5" fill="#3fb950"/>
+  <text x="72" y="122" fill="#f0f6fc" font-size="44" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-weight="700">Gabriel Favero</text>
+  <text x="72" y="160" fill="#c9d1d9" font-size="23" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">Backend Developer · PHP · Laravel</text>
+  <text x="72" y="194" fill="#8b949e" font-size="18" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">APIs · architecture · automation · developer tooling</text>
+</svg>
