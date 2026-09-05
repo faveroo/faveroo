@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="165" viewBox="0 0 800 165" role="img" aria-labelledby="title desc">
+  <title id="title">Gabriel Favero GitHub metrics</title>
+  <desc id="desc">Profile metrics are generated automatically from public GitHub repository data.</desc>
+  <rect width="800" height="165" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <rect x="28" y="30" width="744" height="82" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="48" y="62" fill="#8b949e" font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">PROFILE METRICS</text>
+  <text x="48" y="94" fill="#f0f6fc" font-size="21" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-weight="600">Generated daily from public GitHub data</text>
+  <text x="28" y="142" fill="#8b949e" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">GitHub Actions · public repositories only</text>
+</svg>
