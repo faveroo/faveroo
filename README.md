@@ -112,9 +112,9 @@ Full-stack recurring-expense manager using Laravel 13, React, Inertia.js and Typ
 ### Recent work
 
 <!-- RECENT-WORK:START -->
-- **[eventide](https://github.com/faveroo/eventide)** — Application monitoring and incident-management platform focused on backend architecture. `PHP`
-- **[fluent-data](https://github.com/faveroo/fluent-data)** — Fluent data utilities, DTO mapping and validation for modern PHP. `PHP`
-- **[ai-commit-gen](https://github.com/faveroo/ai-commit-gen)** — AI-assisted commit-message and code-review CLI. `PHP`
+- **[eventide](https://github.com/faveroo/eventide)** — Public repository `PHP`
+- **[discord-bot](https://github.com/faveroo/discord-bot)** — Public repository `Python`
+- **[php-design-patterns](https://github.com/faveroo/php-design-patterns)** — Public repository `PHP`
 <!-- RECENT-WORK:END -->
 
 <sub>This section and the metrics card are refreshed automatically from public GitHub repository data.</sub>
