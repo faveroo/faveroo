@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Gabriel Favero Hoffmann — Backend Developer · PHP · Laravel" />
+  <img src="./assets/header.svg?v=4" width="100%" alt="Gabriel Favero Hoffmann — Backend Developer · PHP · Laravel" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="./assets/terminal.svg" width="820" alt="Backend quality terminal panel" />
+  <img src="./assets/terminal.svg?v=4" width="820" alt="Animated developer terminal cycling through Laravel, quality and Git commands" />
 </div>
 
 ## About me
