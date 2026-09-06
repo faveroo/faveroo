@@ -16,6 +16,7 @@ from urllib.request import Request, urlopen
 
 USERNAME = "faveroo"
 PROFILE_REPO = "faveroo"
+FULL_NAME = "Gabriel Favero Hoffmann"
 README = Path("README.md")
 METRICS = Path("assets/generated/metrics.svg")
 START = "<!-- RECENT-WORK:START -->"
@@ -115,8 +116,8 @@ def generate_metrics_svg(repos: list[dict]) -> None:
         )
 
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="800" height="165" viewBox="0 0 800 165" role="img" aria-labelledby="title desc">
-  <title id="title">Gabriel Favero GitHub metrics</title>
-  <desc id="desc">Public repository metrics generated from the GitHub API.</desc>
+  <title id="title">{html.escape(FULL_NAME)} GitHub metrics</title>
+  <desc id="desc">Public repository metrics for {html.escape(FULL_NAME)} generated from the GitHub API.</desc>
   <rect width="800" height="165" rx="16" fill="#0d1117" stroke="#30363d"/>
   {''.join(cards)}
   <text x="28" y="142" fill="#8b949e" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">{html.escape(top_languages)} · updated {generated}</text>
