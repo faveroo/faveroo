@@ -1,8 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="820" height="180" viewBox="0 0 820 180" role="img" aria-labelledby="title desc">
   <title id="title">Animated developer terminal</title>
-  <desc id="desc">A terminal cycling through testing, static analysis and Git commands.</desc>
+  <desc id="desc">A terminal cycling through testing, static analysis and Git commands without a blinking cursor.</desc>
   <rect width="820" height="180" rx="16" fill="#0d1117" stroke="#30363d"/>
-  <circle cx="28" cy="27" r="5" fill="#f85149"/><circle cx="46" cy="27" r="5" fill="#d29922"/><circle cx="64" cy="27" r="5" fill="#3fb950"/>
+  <circle cx="28" cy="27" r="5" fill="#f85149"/>
+  <circle cx="46" cy="27" r="5" fill="#d29922"/>
+  <circle cx="64" cy="27" r="5" fill="#3fb950"/>
+
   <text x="28" y="68" fill="#3fb950" font-size="18" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">faveroo@github</text>
   <text x="170" y="68" fill="#8b949e" font-size="18" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">:</text>
   <text x="180" y="68" fill="#58a6ff" font-size="18" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">~/backend</text>
@@ -20,23 +23,12 @@
     </text>
   </g>
 
-  <g>
-    <rect x="462" y="51" width="9" height="20" fill="#f0f6fc">
-      <animate attributeName="opacity" values="1;0;1;0;0;0" keyTimes="0;.14;.28;.34;.68;1" dur="9s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="473" y="51" width="9" height="20" fill="#f0f6fc" opacity="0">
-      <animate attributeName="opacity" values="0;0;1;0;1;0" keyTimes="0;.28;.34;.48;.62;.68" dur="9s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="505" y="51" width="9" height="20" fill="#f0f6fc" opacity="0">
-      <animate attributeName="opacity" values="0;0;1;0;1" keyTimes="0;.68;.76;.88;1" dur="9s" repeatCount="indefinite"/>
-    </rect>
-  </g>
-
   <g font-size="16" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
     <text x="28" y="112" fill="#8b949e">quality gate</text>
     <text x="150" y="112" fill="#3fb950">✓ tests</text>
     <text x="248" y="112" fill="#3fb950">✓ static analysis</text>
     <text x="430" y="112" fill="#3fb950">✓ formatting</text>
   </g>
+
   <text x="28" y="148" fill="#8b949e" font-size="15" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">maintainable software &gt; clever software</text>
 </svg>
