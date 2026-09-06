@@ -1,34 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="820" height="180" viewBox="0 0 820 180" role="img" aria-labelledby="title desc">
-  <title id="title">Animated developer terminal</title>
-  <desc id="desc">A terminal cycling through testing, static analysis and Git commands without a blinking cursor.</desc>
+  <title id="title">Backend quality terminal panel</title>
+  <desc id="desc">A static terminal-inspired panel showing backend quality checks without simulated command input.</desc>
+
   <rect width="820" height="180" rx="16" fill="#0d1117" stroke="#30363d"/>
   <circle cx="28" cy="27" r="5" fill="#f85149"/>
   <circle cx="46" cy="27" r="5" fill="#d29922"/>
   <circle cx="64" cy="27" r="5" fill="#3fb950"/>
 
-  <text x="28" y="68" fill="#3fb950" font-size="18" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">faveroo@github</text>
-  <text x="170" y="68" fill="#8b949e" font-size="18" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">:</text>
-  <text x="180" y="68" fill="#58a6ff" font-size="18" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">~/backend</text>
-  <text x="278" y="68" fill="#c9d1d9" font-size="18" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">$</text>
+  <text x="92" y="32" fill="#8b949e" font-size="14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">backend quality pipeline</text>
 
-  <g font-size="18" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" fill="#f0f6fc">
-    <text x="300" y="68">php artisan test
-      <animate attributeName="opacity" values="1;1;0;0;0;0" keyTimes="0;.28;.34;.62;.68;1" dur="9s" repeatCount="indefinite"/>
-    </text>
-    <text x="300" y="68" opacity="0">composer analyse
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.28;.34;.62;.68;1" dur="9s" repeatCount="indefinite"/>
-    </text>
-    <text x="300" y="68" opacity="0">git push origin main
-      <animate attributeName="opacity" values="0;0;0;0;1;1" keyTimes="0;.28;.34;.62;.68;1" dur="9s" repeatCount="indefinite"/>
-    </text>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">
+    <text x="32" y="76" fill="#3fb950">✓ tests</text>
+    <text x="182" y="76" fill="#3fb950">✓ static analysis</text>
+    <text x="402" y="76" fill="#3fb950">✓ formatting</text>
+    <text x="595" y="76" fill="#3fb950">✓ CI</text>
   </g>
 
-  <g font-size="16" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
-    <text x="28" y="112" fill="#8b949e">quality gate</text>
-    <text x="150" y="112" fill="#3fb950">✓ tests</text>
-    <text x="248" y="112" fill="#3fb950">✓ static analysis</text>
-    <text x="430" y="112" fill="#3fb950">✓ formatting</text>
+  <line x1="32" y1="101" x2="788" y2="101" stroke="#21262d"/>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15">
+    <text x="32" y="130" fill="#58a6ff">PHP</text>
+    <text x="72" y="130" fill="#8b949e">/</text>
+    <text x="88" y="130" fill="#ff7b72">Laravel</text>
+    <text x="148" y="130" fill="#8b949e">/</text>
+    <text x="164" y="130" fill="#d2a8ff">APIs</text>
+    <text x="202" y="130" fill="#8b949e">/</text>
+    <text x="218" y="130" fill="#a5d6ff">automation</text>
+    <text x="304" y="130" fill="#8b949e">/</text>
+    <text x="320" y="130" fill="#c9d1d9">clean architecture</text>
   </g>
 
-  <text x="28" y="148" fill="#8b949e" font-size="15" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">maintainable software &gt; clever software</text>
+  <text x="32" y="156" fill="#8b949e" font-size="14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">maintainable software &gt; clever software</text>
 </svg>
