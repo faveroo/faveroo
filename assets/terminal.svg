@@ -1,34 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="180" viewBox="0 0 820 180" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="190" viewBox="0 0 820 190" role="img" aria-labelledby="title desc">
   <title id="title">Animated developer terminal</title>
-  <desc id="desc">A terminal cycling through testing, static analysis and Git commands without a blinking cursor.</desc>
-  <rect width="820" height="180" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <desc id="desc">A terminal cycling through Laravel testing, static analysis and Git commands without a blinking cursor.</desc>
+
+  <rect width="820" height="190" rx="16" fill="#0d1117" stroke="#30363d"/>
   <circle cx="28" cy="27" r="5" fill="#f85149"/>
   <circle cx="46" cy="27" r="5" fill="#d29922"/>
   <circle cx="64" cy="27" r="5" fill="#3fb950"/>
+  <text x="92" y="32" fill="#8b949e" font-size="14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">gabriel@faveroo:~/backend</text>
 
-  <text x="28" y="68" fill="#3fb950" font-size="18" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">faveroo@github</text>
-  <text x="170" y="68" fill="#8b949e" font-size="18" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">:</text>
-  <text x="180" y="68" fill="#58a6ff" font-size="18" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">~/backend</text>
-  <text x="278" y="68" fill="#c9d1d9" font-size="18" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">$</text>
+  <text x="28" y="78" fill="#3fb950" font-size="18" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">$</text>
 
   <g font-size="18" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" fill="#f0f6fc">
-    <text x="300" y="68">php artisan test
+    <text x="52" y="78">php artisan test
       <animate attributeName="opacity" values="1;1;0;0;0;0" keyTimes="0;.28;.34;.62;.68;1" dur="9s" repeatCount="indefinite"/>
     </text>
-    <text x="300" y="68" opacity="0">composer analyse
+    <text x="52" y="78" opacity="0">composer analyse
       <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.28;.34;.62;.68;1" dur="9s" repeatCount="indefinite"/>
     </text>
-    <text x="300" y="68" opacity="0">git push origin main
+    <text x="52" y="78" opacity="0">git push origin main
       <animate attributeName="opacity" values="0;0;0;0;1;1" keyTimes="0;.28;.34;.62;.68;1" dur="9s" repeatCount="indefinite"/>
     </text>
   </g>
 
+  <line x1="28" y1="104" x2="792" y2="104" stroke="#21262d"/>
+
   <g font-size="16" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
-    <text x="28" y="112" fill="#8b949e">quality gate</text>
-    <text x="150" y="112" fill="#3fb950">✓ tests</text>
-    <text x="248" y="112" fill="#3fb950">✓ static analysis</text>
-    <text x="430" y="112" fill="#3fb950">✓ formatting</text>
+    <text x="28" y="132" fill="#8b949e">quality gate</text>
+    <text x="150" y="132" fill="#3fb950">✓ tests</text>
+    <text x="248" y="132" fill="#3fb950">✓ static analysis</text>
+    <text x="430" y="132" fill="#3fb950">✓ formatting</text>
   </g>
 
-  <text x="28" y="148" fill="#8b949e" font-size="15" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">maintainable software &gt; clever software</text>
+  <text x="28" y="166" fill="#8b949e" font-size="15" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">maintainable software &gt; clever software</text>
 </svg>
