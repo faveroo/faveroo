@@ -1,16 +1,18 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Gabriel Favero — Backend Developer · PHP · Laravel" />
+  <img src="./assets/header.svg" width="100%" alt="Gabriel Favero Hoffmann — Backend Developer · PHP · Laravel" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="./assets/terminal.svg" width="820" alt="Animated developer terminal" />
+  <img src="./assets/terminal.svg" width="820" alt="Animated developer terminal cycling through PHP, quality and Git commands" />
 </div>
 
 ## About me
 
 Backend developer working primarily with **PHP** and **Laravel**, with a focus on **APIs, software architecture, automation, code quality and developer tooling**. I am currently pursuing a degree in **Systems Analysis and Development (ADS)** and use my public repositories to explore maintainable application design, reusable packages and engineering workflows.
+
+I like codebases where architecture is explicit, quality checks are part of the workflow, and abstractions earn their place by making the system easier to understand and evolve.
 
 ## Tech stack
 
@@ -73,6 +75,26 @@ Application monitoring and incident-management platform for development teams, b
 </td>
 <td width="50%" valign="top">
 
+### [fluent-data](https://github.com/faveroo/fluent-data)
+
+Reusable PHP library for expressive collections, DTO mapping, validation, array/string helpers and lightweight transformation pipelines.
+
+**Why it is interesting:** focuses on package design, fluent APIs, typed data flows, automated tests, static analysis and formatting as first-class quality gates.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [ai-commit-gen](https://github.com/faveroo/ai-commit-gen)
+
+Laravel Zero CLI that generates commit messages and code-review suggestions with AI from Git changes.
+
+**Why it is interesting:** combines PHP developer tooling, console application design, automation and AI-assisted workflows in a focused command-line product.
+
+</td>
+<td width="50%" valign="top">
+
 ### [bill-subscription-manager](https://github.com/faveroo/bill-subscription-manager)
 
 Full-stack recurring-expense manager using Laravel 13, React, Inertia.js and TypeScript.
@@ -86,7 +108,7 @@ Full-stack recurring-expense manager using Laravel 13, React, Inertia.js and Typ
 ## GitHub & open-source activity
 
 <div align="center">
-  <img src="./assets/generated/metrics.svg" width="800" alt="Automatically generated GitHub profile metrics" />
+  <img src="./assets/generated/metrics.svg" width="800" alt="Automatically generated public GitHub metrics for Gabriel Favero Hoffmann" />
 </div>
 
 ### Recent work
