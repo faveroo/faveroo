@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/terminal.svg" width="820" alt="Animated developer terminal cycling through PHP, quality and Git commands" />
+  <img src="./assets/terminal.svg" width="820" alt="Backend quality terminal panel" />
 </div>
 
 ## About me
@@ -71,26 +71,6 @@ I like codebases where architecture is explicit, quality checks are part of the 
 Application monitoring and incident-management platform for development teams, built around health checks, application events and external integrations.
 
 **Why it is interesting:** explores event-driven architecture, queues, webhooks, API authentication, detection rules, multi-tenancy and observability in Laravel.
-
-</td>
-<td width="50%" valign="top">
-
-### [fluent-data](https://github.com/faveroo/fluent-data)
-
-Reusable PHP library for expressive collections, DTO mapping, validation, array/string helpers and lightweight transformation pipelines.
-
-**Why it is interesting:** focuses on package design, fluent APIs, typed data flows, automated tests, static analysis and formatting as first-class quality gates.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [ai-commit-gen](https://github.com/faveroo/ai-commit-gen)
-
-Laravel Zero CLI that generates commit messages and code-review suggestions with AI from Git changes.
-
-**Why it is interesting:** combines PHP developer tooling, console application design, automation and AI-assisted workflows in a focused command-line product.
 
 </td>
 <td width="50%" valign="top">
