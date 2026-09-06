@@ -73,26 +73,6 @@ Application monitoring and incident-management platform for development teams, b
 </td>
 <td width="50%" valign="top">
 
-### [fluent-data](https://github.com/faveroo/fluent-data)
-
-Reusable PHP package for expressive data manipulation through fluent collections, DTO mapping, validation attributes, array helpers and pipelines.
-
-**Why it is interesting:** package-oriented design backed by PHPUnit, PHPStan and automated formatting checks.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [ai-commit-gen](https://github.com/faveroo/ai-commit-gen)
-
-Laravel Zero CLI that uses AI to generate Git commit messages and assist with code-review feedback.
-
-**Why it is interesting:** combines developer experience, automation, Git workflows and a distributable PHP command-line application.
-
-</td>
-<td width="50%" valign="top">
-
 ### [bill-subscription-manager](https://github.com/faveroo/bill-subscription-manager)
 
 Full-stack recurring-expense manager using Laravel 13, React, Inertia.js and TypeScript.
