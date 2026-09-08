@@ -1,97 +1,103 @@
-<div align="center">
-  <img src="./assets/header.svg?v=4" width="100%" alt="Gabriel Favero Hoffmann — Backend Developer · PHP · Laravel" />
-</div>
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Gabriel Favero Hoffmann — Backend Developer. PHP, Laravel, APIs and automation." />
+</p>
 
-<br>
+<p align="center">
+  <a href="#selected-projects">Selected projects</a> &nbsp; / &nbsp;
+  <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
+  <a href="#github-in-numbers">GitHub stats</a> &nbsp; / &nbsp;
+  <a href="#lets-connect">Contact</a>
+</p>
 
-<div align="center">
-  <img src="./assets/terminal.svg?v=4" width="820" alt="Animated developer terminal cycling through Laravel, quality and Git commands" />
-</div>
+### Turning business rules into useful software.
 
-## About me
+I'm **Gabriel**, a backend developer focused on **PHP and Laravel**, currently studying **Systems Analysis and Development**. I build web applications and explore API design, relational data modeling and automation — with an interest in code that is easy to understand, test and evolve.
 
-Backend developer working primarily with **PHP** and **Laravel**, with a focus on **APIs, software architecture, automation, code quality and developer tooling**. I am currently pursuing a degree in **Systems Analysis and Development (ADS)** and use my public repositories to explore maintainable application design, reusable packages and engineering workflows.
+- **My focus:** backend development, REST APIs and application architecture.
+- **Beyond the backend:** React, TypeScript and Inertia.js to connect business logic to usable interfaces.
+- **Currently building:** Eventide, a project exploring application monitoring and incident management.
 
-I like codebases where architecture is explicit, quality checks are part of the workflow, and abstractions earn their place by making the system easier to understand and evolve.
+```php
+<?php
 
-## Tech stack
+// A little about the developer behind these repositories.
+return [
+    'name'  => 'Gabriel Favero Hoffmann',
+    'stack' => ['PHP', 'Laravel', 'MySQL'],
+    'focus' => ['APIs', 'Automation', 'Maintainable software'],
+];
+```
 
-<table>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="24" alt="PHP" />
-      &nbsp;PHP&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="24" alt="Laravel" />
-      &nbsp;Laravel&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="24" alt="Composer" />
-      &nbsp;Composer
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Data & APIs</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="24" alt="MySQL" />
-      &nbsp;MySQL&nbsp;&nbsp;·&nbsp;&nbsp;REST APIs&nbsp;&nbsp;·&nbsp;&nbsp;Laravel Sanctum
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="24" alt="React" />
-      &nbsp;React&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="24" alt="TypeScript" />
-      &nbsp;TypeScript&nbsp;&nbsp;·&nbsp;&nbsp;Inertia.js
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Quality & tooling</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="24" alt="Git" />
-      &nbsp;Git&nbsp;&nbsp;·&nbsp;&nbsp;GitHub Actions&nbsp;&nbsp;·&nbsp;&nbsp;Pest / PHPUnit&nbsp;&nbsp;·&nbsp;&nbsp;PHPStan / Larastan&nbsp;&nbsp;·&nbsp;&nbsp;Laravel Pint
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Also used</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="24" alt="Python" />
-      &nbsp;Python
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/request-flow.gif" width="880" alt="Illustrative backend request flow: request, route, validate, persist and respond. A red packet moves through the stages." />
+</p>
 
-## Featured projects
+## Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Eventide](https://github.com/faveroo/eventide)
+**01 / OBSERVABILITY**
 
-Application monitoring and incident-management platform for development teams, built around health checks, application events and external integrations.
+### [Eventide ↗](https://github.com/faveroo/eventide)
 
-**Why it is interesting:** explores event-driven architecture, queues, webhooks, API authentication, detection rules, multi-tenancy and observability in Laravel.
+**Understand what is happening across a team's applications.**
+
+A platform in development for application monitoring and incident management. The proposal brings health checks, application events and external integrations into one operational view.
+
+**Engineering focus:** organizations and access control, API design, event processing and observability.
+
+<sub>In development · Monitoring and incident detection are project goals.</sub>
+
+<br><br>
+[Explore the architecture →](https://github.com/faveroo/eventide#readme)
 
 </td>
 <td width="50%" valign="top">
 
-### [bill-subscription-manager](https://github.com/faveroo/bill-subscription-manager)
+**02 / FULL-STACK APPLICATION**
 
-Full-stack recurring-expense manager using Laravel 13, React, Inertia.js and TypeScript.
+### [Bill Subscription Manager ↗](https://github.com/faveroo/bill-subscription-manager)
 
-**Why it is interesting:** models subscription lifecycles, billing history and notifications while keeping linting, formatting, type checks and tests in the development workflow.
+**Bring recurring expenses into one place.**
+
+A web application to manage subscriptions, billing cycles and payment history, with a dashboard for upcoming charges and projected recurring costs.
+
+**Engineering focus:** subscription lifecycles, user-scoped data, notifications and typed interfaces.
+
+<sub>Laravel · React · Inertia.js · TypeScript</sub>
+
+<br><br>
+[Explore the application →](https://github.com/faveroo/bill-subscription-manager#readme)
 
 </td>
 </tr>
 </table>
 
-## GitHub & open-source activity
+## Toolbox
 
-<div align="center">
-  <img src="./assets/generated/metrics.svg" width="800" alt="Automatically generated public GitHub metrics for Gabriel Favero Hoffmann" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,react,ts,git,githubactions,python&amp;theme=dark" alt="PHP, Laravel, MySQL, React, TypeScript, Git, GitHub Actions and Python" />
+</p>
 
-### Recent work
+| Area | Technologies & practices |
+| :--- | :--- |
+| **Backend & data** | PHP · Laravel · Eloquent · MySQL · REST APIs · Sanctum |
+| **Interfaces** | React · TypeScript · Inertia.js |
+| **Quality** | Pest / PHPUnit · PHPStan / Larastan · Laravel Pint |
+| **Workflow** | Git · GitHub Actions · Composer · Python |
+
+## GitHub in numbers
+
+<p align="center">
+  <img src="./assets/generated/metrics.svg" width="100%" alt="GitHub public repository statistics and most-used primary repository languages. Updated daily." />
+</p>
+
+<sub>Public GitHub data, refreshed daily. Language counts describe repositories' primary languages, not proficiency or lines of code. Stars and forks refer to original, non-archived projects, excluding this profile.</sub>
+
+<details>
+<summary><strong>Recently updated repositories</strong></summary>
 
 <!-- RECENT-WORK:START -->
 - **[eventide](https://github.com/faveroo/eventide)** — Public repository `PHP`
@@ -99,22 +105,18 @@ Full-stack recurring-expense manager using Laravel 13, React, Inertia.js and Typ
 - **[php-design-patterns](https://github.com/faveroo/php-design-patterns)** — Public repository `PHP`
 <!-- RECENT-WORK:END -->
 
-<sub>This section and the metrics card are refreshed automatically from public GitHub repository data.</sub>
+</details>
 
-## Contributions
+## One contribution at a time
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="./dist/github-contribution-grid-snake.svg">
+  <img width="100%" alt="Animated snake moving through my GitHub contribution calendar" src="./dist/github-contribution-grid-snake.svg">
 </picture>
 
-## Contact
+## Let's connect
 
-The best way to reach me around code or open-source work is through **GitHub** — repositories, issues and discussions are all public on [@faveroo](https://github.com/faveroo).
+Interested in my work? **Explore the projects above** or connect with me on **[GitHub @faveroo](https://github.com/faveroo)**.
 
----
-
-<div align="center">
-  <sub>Backend engineering · PHP · Laravel · APIs · automation · clean code</sub>
-</div>
+<p align="center"><sub>Gabriel Favero Hoffmann &nbsp; · &nbsp; Backend development &nbsp; · &nbsp; Built with purpose.</sub></p>

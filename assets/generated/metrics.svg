@@ -1,7 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="165" viewBox="0 0 800 165" role="img" aria-labelledby="title desc">
-  <title id="title">Gabriel Favero Hoffmann GitHub metrics</title>
-  <desc id="desc">Public repository metrics for Gabriel Favero Hoffmann generated from the GitHub API.</desc>
-  <rect width="800" height="165" rx="16" fill="#0d1117" stroke="#30363d"/>
-  <rect x="28" y="30" width="170" height="82" rx="12" fill="#161b22" stroke="#30363d"/><text x="44" y="58" fill="#8b949e" font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">PUBLIC REPOS</text><text x="44" y="91" fill="#f0f6fc" font-size="28" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-weight="700">18</text><rect x="218" y="30" width="170" height="82" rx="12" fill="#161b22" stroke="#30363d"/><text x="234" y="58" fill="#8b949e" font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">OWN PROJECTS</text><text x="234" y="91" fill="#f0f6fc" font-size="28" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-weight="700">17</text><rect x="408" y="30" width="170" height="82" rx="12" fill="#161b22" stroke="#30363d"/><text x="424" y="58" fill="#8b949e" font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">STARS</text><text x="424" y="91" fill="#f0f6fc" font-size="28" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-weight="700">5</text><rect x="598" y="30" width="170" height="82" rx="12" fill="#161b22" stroke="#30363d"/><text x="614" y="58" fill="#8b949e" font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">FORKS</text><text x="614" y="91" fill="#f0f6fc" font-size="28" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-weight="700">2</text>
-  <text x="28" y="142" fill="#8b949e" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">PHP · Vue · Python · TypeScript · updated 2026-09-08</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="326" viewBox="0 0 880 326" role="img" aria-labelledby="title desc">
+    <title id="title">Gabriel Favero Hoffmann — GitHub in numbers</title>
+    <desc id="desc">Public repositories: 18. Original non-archived projects excluding this profile: 17. Stars: 5. Forks: 2. Primary languages by repository count. Updated 2026-09-08.</desc>
+    <rect x="1" y="1" width="878" height="324" rx="16" fill="#101115" stroke="#303038"/>
+    <g font-family="Arial,Helvetica,sans-serif">
+    <text x="28" y="36" fill="#ff7b84" font-size="12" letter-spacing="2">PUBLIC WORK / GITHUB</text>
+    <text x="850" y="36" text-anchor="end" fill="#b7b7c2" font-size="12">Updated 2026-09-08</text>
+    <rect x="28" y="65" width="193" height="94" rx="10" fill="#1b1c23"/>
+        <text x="44" y="91" fill="#b7b7c2" font-size="11" letter-spacing="1">PUBLIC REPOS</text>
+        <text x="44" y="139" fill="#f5f5f7" font-size="36" font-weight="700">18</text><rect x="235" y="65" width="193" height="94" rx="10" fill="#1b1c23"/>
+        <text x="251" y="91" fill="#b7b7c2" font-size="11" letter-spacing="1">ORIGINAL PROJECTS</text>
+        <text x="251" y="139" fill="#f5f5f7" font-size="36" font-weight="700">17</text><rect x="442" y="65" width="193" height="94" rx="10" fill="#1b1c23"/>
+        <text x="458" y="91" fill="#b7b7c2" font-size="11" letter-spacing="1">STARS EARNED</text>
+        <text x="458" y="139" fill="#f5f5f7" font-size="36" font-weight="700">5</text><rect x="649" y="65" width="193" height="94" rx="10" fill="#1b1c23"/>
+        <text x="665" y="91" fill="#b7b7c2" font-size="11" letter-spacing="1">PROJECT FORKS</text>
+        <text x="665" y="139" fill="#f5f5f7" font-size="36" font-weight="700">2</text><text x="28" y="215" fill="#e7e7eb" font-size="13">PHP</text>
+        <text x="420" y="215" text-anchor="end" fill="#b7b7c2" font-size="12">10 repos</text>
+        <rect x="28" y="225" width="392" height="5" rx="2" fill="#303038"/>
+        <rect x="28" y="225" width="230.6" height="5" rx="2" fill="#ff626f"/><text x="452" y="215" fill="#e7e7eb" font-size="13">Vue</text>
+        <text x="844" y="215" text-anchor="end" fill="#b7b7c2" font-size="12">3 repos</text>
+        <rect x="452" y="225" width="392" height="5" rx="2" fill="#303038"/>
+        <rect x="452" y="225" width="69.2" height="5" rx="2" fill="#ff626f"/><text x="28" y="265" fill="#e7e7eb" font-size="13">Python</text>
+        <text x="420" y="265" text-anchor="end" fill="#b7b7c2" font-size="12">1 repos</text>
+        <rect x="28" y="275" width="392" height="5" rx="2" fill="#303038"/>
+        <rect x="28" y="275" width="23.1" height="5" rx="2" fill="#ff626f"/><text x="452" y="265" fill="#e7e7eb" font-size="13">TypeScript</text>
+        <text x="844" y="265" text-anchor="end" fill="#b7b7c2" font-size="12">1 repos</text>
+        <rect x="452" y="275" width="392" height="5" rx="2" fill="#303038"/>
+        <rect x="452" y="275" width="23.1" height="5" rx="2" fill="#ff626f"/>
+    <text x="28" y="187" fill="#b7b7c2" font-size="11" letter-spacing="1">PRIMARY LANGUAGES / ORIGINAL PROJECTS</text>
+    <text x="28" y="307" fill="#b7b7c2" font-size="11">Source: GitHub API · Public repository data · Refreshed with GitHub Actions</text>
+    </g></svg>
