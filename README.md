@@ -100,9 +100,9 @@ A web application to manage subscriptions, billing cycles and payment history, w
 <summary><strong>Recently updated repositories</strong></summary>
 
 <!-- RECENT-WORK:START -->
+- **[cache](https://github.com/faveroo/cache)** — Public repository `PHP`
 - **[eventide](https://github.com/faveroo/eventide)** — Public repository `PHP`
 - **[discord-bot](https://github.com/faveroo/discord-bot)** — Public repository `Python`
-- **[php-design-patterns](https://github.com/faveroo/php-design-patterns)** — Public repository `PHP`
 <!-- RECENT-WORK:END -->
 
 </details>
