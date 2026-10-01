@@ -101,8 +101,8 @@ A web application to manage subscriptions, billing cycles and payment history, w
 
 <!-- RECENT-WORK:START -->
 - **[laravel-repro](https://github.com/faveroo/laravel-repro)** — Public repository `PHP`
-- **[mini-framework](https://github.com/faveroo/mini-framework)** — Public repository `PHP`
 - **[cache](https://github.com/faveroo/cache)** — Public repository `PHP`
+- **[eventide](https://github.com/faveroo/eventide)** — Public repository `PHP`
 <!-- RECENT-WORK:END -->
 
 </details>
