@@ -100,9 +100,9 @@ A web application to manage subscriptions, billing cycles and payment history, w
 <summary><strong>Recently updated repositories</strong></summary>
 
 <!-- RECENT-WORK:START -->
-- **[gmail-email-classifier](https://github.com/faveroo/gmail-email-classifier)** — Public repository `Code`
+- **[pulsebeam](https://github.com/faveroo/pulsebeam)** — Public repository `Code`
+- **[gmail-email-classifier](https://github.com/faveroo/gmail-email-classifier)** — Public repository `Python`
 - **[eventide](https://github.com/faveroo/eventide)** — Public repository `PHP`
-- **[laravel-repro](https://github.com/faveroo/laravel-repro)** — Public repository `PHP`
 <!-- RECENT-WORK:END -->
 
 </details>
