@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="126" viewBox="0 0 1200 126" role="img" aria-labelledby="title">
+  <title id="title">Gabriel Favero Hoffmann — Always learning. One commit at a time.</title>
+  <path fill="#0d1117" d="M0 0h1200v126H0z"/>
+  <path d="M0 .5h1200" stroke="#303845"/>
+  <path d="M48 37h4v52h-4z" fill="#ff626f"/>
+  <text x="71" y="57" font-family="'DejaVu Sans',Arial,sans-serif" font-size="18" font-weight="700" fill="#e6edf3">Always learning. One commit at a time.</text>
+  <text x="71" y="84" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="12" fill="#929fb0">Gabriel Favero Hoffmann / @faveroo</text>
+  <text x="1152" y="74" text-anchor="end" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="24" fill="#ff818c">&lt;/&gt;</text>
+  <path d="M0 123h1200v3H0z" fill="#ff626f"/>
+</svg>

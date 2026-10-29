@@ -1,24 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title desc">
-<title id="title">Gabriel Favero Hoffmann — Backend Developer</title>
-<desc id="desc">PHP, Laravel, APIs and automation. Building the logic behind the experience.</desc>
-<rect width="960" height="340" rx="20" fill="#101115"/>
-<rect x="1" y="1" width="958" height="338" rx="19" fill="none" stroke="#303038"/>
-<path d="M640 0V340M720 0V340M800 0V340M880 0V340M640 60H960M640 140H960M640 220H960M640 300H960" stroke="#202127"/>
-<rect x="40" y="40" width="5" height="20" rx="2" fill="#ff535f"/>
-<text x="58" y="55" font-family="monospace" font-size="13" letter-spacing="3" fill="#ff7b84">FAVEROO / BACKEND DEVELOPER</text>
-<g font-family="Arial,Helvetica,sans-serif" font-weight="700" fill="#f5f5f7">
-<text x="40" y="123" font-size="43">Gabriel Favero</text>
-<text x="40" y="174" font-size="43">Hoffmann<tspan fill="#ff535f">.</tspan></text>
-</g>
-<text x="42" y="218" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#b7b7c2">Building the logic behind the experience.</text>
-<g font-family="monospace" font-size="13" fill="#e7e7eb">
-<rect x="40" y="262" width="68" height="32" rx="7" fill="#242127"/><text x="61" y="283">PHP</text>
-<rect x="118" y="262" width="104" height="32" rx="7" fill="#242127"/><text x="137" y="283">LARAVEL</text>
-<rect x="232" y="262" width="80" height="32" rx="7" fill="#242127"/><text x="253" y="283">APIs</text>
-<rect x="322" y="262" width="130" height="32" rx="7" fill="#242127"/><text x="339" y="283">AUTOMATION</text>
-</g>
-<rect x="674" y="66" width="224" height="210" rx="20" fill="#18191f" stroke="#44404a"/>
-<path d="M700 92H738M700 92V130M872 250H834M872 250V212" fill="none" stroke="#ff535f" stroke-width="3"/>
-<text x="786" y="186" text-anchor="middle" font-family="monospace" font-size="64" font-weight="700" fill="#ff6b76">&lt;/&gt;</text>
-<text x="786" y="227" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="3" fill="#b7b7c2">CODE WITH INTENT</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">Gabriel Favero Hoffmann — Backend Developer</title>
+  <desc id="desc">Dark terminal-inspired banner with coral accents. PHP, Laravel, APIs and automation.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 H 0 V 32" fill="none" stroke="#20252f" stroke-width="0.6"/></pattern>
+    <linearGradient id="accent"><stop stop-color="#ff626f"/><stop offset="1" stop-color="#d94059"/></linearGradient>
+  </defs>
+  <path fill="#0d1117" d="M0 0h1200v310H0z"/>
+  <path fill="url(#grid)" d="M760 0h440v310H760z"/>
+  <path fill="url(#accent)" d="M0 0h1200v4H0z"/>
+  <g font-family="'DejaVu Sans Mono',Consolas,monospace">
+    <path fill="#ff626f" d="M48 37h8v8h-8z"/>
+    <text x="69" y="45" font-size="13" fill="#aab4c2" letter-spacing="2">FAVEROO / DEVELOPER PROFILE</text>
+    <text x="48" y="112" font-size="18" fill="#ff818c">&lt;hello, world /&gt;</text>
+  </g>
+  <text x="45" y="174" font-family="'DejaVu Sans',Arial,sans-serif" font-size="43" font-weight="700" letter-spacing="-1.6" fill="#f0f3f8">Gabriel Favero Hoffmann</text>
+  <text x="48" y="216" font-family="'DejaVu Sans',Arial,sans-serif" font-size="23" fill="#c6cfdb">Backend Developer</text>
+  <g font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="13">
+    <text x="48" y="269" fill="#8b98aa" letter-spacing="1">PHP / LARAVEL / APIs / AUTOMATION</text>
+    <text x="1152" y="269" fill="#738094" text-anchor="end">01 — BUILD. LEARN. REPEAT.</text>
+  </g>
+  <g fill="none" stroke="#ff626f" stroke-width="5">
+    <path d="m920 113-37 35 37 35m116-70 37 35-37 35m-42-82-33 94"/>
+  </g>
+  <path d="M835 80h-19v135h19m291-135h19v135h-19" fill="none" stroke="#303845" stroke-width="2"/>
+  <path d="M0 309.5h1200" stroke="#303845"/>
 </svg>

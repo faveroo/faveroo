@@ -3,120 +3,89 @@
 </p>
 
 <p align="center">
-  <a href="#selected-projects">Selected projects</a> &nbsp; / &nbsp;
-  <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
-  <a href="#github-in-numbers">GitHub stats</a> &nbsp; / &nbsp;
-  <a href="#lets-connect">Contact</a>
+  <a href="#about">About</a> &nbsp; / &nbsp;
+  <a href="#tech-stack">Tech stack</a> &nbsp; / &nbsp;
+  <a href="#github-stats">GitHub stats</a> &nbsp; / &nbsp;
+  <a href="#contribution-arcade">Contribution arcade</a>
 </p>
 
-### Turning business rules into useful software.
+## About
 
-I'm **Gabriel**, a backend developer focused on **PHP and Laravel**, currently studying **Systems Analysis and Development**. I build web applications and explore API design, relational data modeling and automation — with an interest in code that is easy to understand, test and evolve.
+I'm **Gabriel**, a backend developer focused on **PHP and Laravel**, studying **Systems Analysis and Development** in Brazil.
 
-- **My focus:** backend development, REST APIs and application architecture.
-- **Beyond the backend:** React, TypeScript and Inertia.js to connect business logic to usable interfaces.
-- **Currently building:** Eventide, a project exploring application monitoring and incident management.
+I enjoy turning business rules into web applications, designing APIs and automating repetitive work. My interests include relational data modeling, application architecture and code that is straightforward to read, test and maintain.
 
-```php
-<?php
-
-// A little about the developer behind these repositories.
-return [
-    'name'  => 'Gabriel Favero Hoffmann',
-    'stack' => ['PHP', 'Laravel', 'MySQL'],
-    'focus' => ['APIs', 'Automation', 'Maintainable software'],
-];
-```
+- **Main stack:** PHP, Laravel and MySQL.
+- **On the frontend:** React, TypeScript and Inertia.js.
+- **Exploring:** Gleam, Go and Python.
 
 <p align="center">
-  <img src="./assets/request-flow.gif" width="880" alt="Illustrative backend request flow: request, route, validate, persist and respond. A red packet moves through the stages." />
+  <img src="./assets/coding.gif" width="880" alt="Animated code editor typing a PHP developer profile, followed by a terminal running a small illustrative PHP script." />
 </p>
 
-## Selected projects
+## Tech stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 / OBSERVABILITY**
-
-### [Eventide ↗](https://github.com/faveroo/eventide)
-
-**Understand what is happening across a team's applications.**
-
-A platform in development for application monitoring and incident management. The proposal brings health checks, application events and external integrations into one operational view.
-
-**Engineering focus:** organizations and access control, API design, event processing and observability.
-
-<sub>In development · Monitoring and incident detection are project goals.</sub>
-
-<br><br>
-[Explore the architecture →](https://github.com/faveroo/eventide#readme)
-
-</td>
-<td width="50%" valign="top">
-
-**02 / FULL-STACK APPLICATION**
-
-### [Bill Subscription Manager ↗](https://github.com/faveroo/bill-subscription-manager)
-
-**Bring recurring expenses into one place.**
-
-A web application to manage subscriptions, billing cycles and payment history, with a dashboard for upcoming charges and projected recurring costs.
-
-**Engineering focus:** subscription lifecycles, user-scoped data, notifications and typed interfaces.
-
-<sub>Laravel · React · Inertia.js · TypeScript</sub>
-
-<br><br>
-[Explore the application →](https://github.com/faveroo/bill-subscription-manager#readme)
-
-</td>
-</tr>
-</table>
-
-## Toolbox
+**Backend & data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,react,ts,git,githubactions,python&amp;theme=dark" alt="PHP, Laravel, MySQL, React, TypeScript, Git, GitHub Actions and Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&amp;logo=composer&amp;logoColor=white" alt="Composer" />
 </p>
 
-| Area | Technologies & practices |
-| :--- | :--- |
-| **Backend & data** | PHP · Laravel · Eloquent · MySQL · REST APIs · Sanctum |
-| **Interfaces** | React · TypeScript · Inertia.js |
-| **Quality** | Pest / PHPUnit · PHPStan / Larastan · Laravel Pint |
-| **Workflow** | Git · GitHub Actions · Composer · Python |
+**Frontend**
 
-## GitHub in numbers
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&amp;logo=inertia&amp;logoColor=white" alt="Inertia.js" />
+</p>
+
+**Tools & workflow**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Pest-F28D1A?style=for-the-badge&amp;logo=pest&amp;logoColor=white" alt="Pest" />
+  <img src="https://img.shields.io/badge/PHPStan-21262D?style=for-the-badge" alt="PHPStan" />
+</p>
+
+**Learning & experimenting**
+
+<p>
+  <img src="https://img.shields.io/badge/Gleam-FFAFF3?style=for-the-badge&amp;logo=gleam&amp;logoColor=292D3E" alt="Gleam" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+</p>
+
+## GitHub stats
 
 <p align="center">
-  <img src="./assets/generated/metrics.svg" width="100%" alt="GitHub public repository statistics and most-used primary repository languages. Updated daily." />
+  <img src="./assets/generated/stats.svg" width="49%" alt="Gabriel's public GitHub statistics" />
+  <img src="./assets/generated/top-langs.svg" width="49%" alt="Most-used languages in Gabriel's public repositories" />
 </p>
 
-<sub>Public GitHub data, refreshed daily. Language counts describe repositories' primary languages, not proficiency or lines of code. Stars and forks refer to original, non-archived projects, excluding this profile.</sub>
+<p align="center">
+  <sub>Updated daily with GitHub Actions. Language usage reflects public repository code, not proficiency.</sub>
+</p>
 
-<details>
-<summary><strong>Recently updated repositories</strong></summary>
+## Contribution arcade
 
-<!-- RECENT-WORK:START -->
-- **[pulsebeam](https://github.com/faveroo/pulsebeam)** — Public repository `Gleam`
-- **[gmail-email-classifier](https://github.com/faveroo/gmail-email-classifier)** — Public repository `Python`
-- **[eventide](https://github.com/faveroo/eventide)** — Public repository `PHP`
-<!-- RECENT-WORK:END -->
-
-</details>
-
-## One contribution at a time
+<p align="center"><sub>A year of contributions, one dot at a time.</sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg">
-  <img width="100%" alt="Animated snake moving through my GitHub contribution calendar" src="./dist/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./dist/pacman-contribution-graph.svg" />
+  <img src="./dist/pacman-contribution-graph.svg" width="100%" alt="Animated Pac-Man moving through my GitHub contribution calendar" />
 </picture>
 
-## Let's connect
+<br />
 
-Interested in my work? **Explore the projects above** or connect with me on **[GitHub @faveroo](https://github.com/faveroo)**.
+<p align="center">
+  <a href="https://github.com/faveroo"><img src="https://img.shields.io/badge/GitHub-@faveroo-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub @faveroo" /></a>
+</p>
 
-<p align="center"><sub>Gabriel Favero Hoffmann &nbsp; · &nbsp; Backend development &nbsp; · &nbsp; Built with purpose.</sub></p>
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Gabriel Favero Hoffmann — Always learning. One commit at a time." />
+</p>

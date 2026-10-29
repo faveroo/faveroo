@@ -32,7 +32,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=false&border_radius=0&border_color=303845&bg_color=0d1117&title_color=ff818c&icon_color=ff626f&text_color=c6cfdb&hide_rank=true&card_width=460&disable_animations=true
+          options: username=${{ github.repository_owner }}&custom_title=GitHub%20Stats&show_icons=true&hide_border=false&border_radius=0&border_color=303845&bg_color=0d1117&title_color=ff818c&icon_color=ff626f&text_color=c6cfdb&hide_rank=true&card_width=460&disable_animations=true
           path: assets/generated/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: "true"
@@ -41,7 +41,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=false&border_radius=0&border_color=303845&bg_color=0d1117&title_color=ff818c&text_color=c6cfdb&card_width=460&disable_animations=true
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=false&border_radius=0&border_color=303845&bg_color=0d1117&title_color=ff818c&text_color=c6cfdb&card_width=460&disable_animations=true
           path: assets/generated/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: "true"
