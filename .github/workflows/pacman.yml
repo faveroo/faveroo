@@ -1,0 +1,55 @@
+name: Generate Pac-Man contributions
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/pacman.yml
+  workflow_dispatch:
+  schedule:
+    - cron: "43 6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-automation
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout latest profile
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          ref: main
+
+      - name: Generate light and dark Pac-Man graphs
+        uses: abozanona/pacman-contribution-graph@7332e1de7903ab780c3692a4127a59cc13872daa
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: pacman
+
+      - name: Validate and commit graphs
+        run: |
+          python3 - <<'PY'
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+          for name in ("pacman-contribution-graph.svg", "pacman-contribution-graph-dark.svg"):
+              path = Path("dist") / name
+              assert path.stat().st_size > 1000, f"Empty graph: {path}"
+              assert ET.parse(path).getroot().tag == "{http://www.w3.org/2000/svg}svg"
+          PY
+          git add dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
+          if git diff --cached --quiet; then
+            echo "Pac-Man is already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh Pac-Man contribution graphs"
+          git pull --rebase origin main
+          git push origin HEAD:main

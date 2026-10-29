@@ -1,10 +1,9 @@
-name: Update profile metrics
+name: Update GitHub stats
 
 on:
   push:
     branches: [main]
     paths:
-      - scripts/update_profile.py
       - .github/workflows/metrics.yml
   workflow_dispatch:
   schedule:
@@ -18,28 +17,44 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  update-profile:
+  generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 15
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v7
+      - name: Checkout latest profile
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          ref: main
 
-      - name: Generate metrics and recent work
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/update_profile.py
+      # Current project: https://github-stats-extended.vercel.app
+      # Render inside Actions; the README loads committed SVGs, not the public API.
+      - name: Generate GitHub stats
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=false&border_radius=0&border_color=303845&bg_color=0d1117&title_color=ff818c&icon_color=ff626f&text_color=c6cfdb&hide_rank=true&card_width=460&disable_animations=true
+          path: assets/generated/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
 
-      - name: Commit changes when needed
+      - name: Generate language stats
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=false&border_radius=0&border_color=303845&bg_color=0d1117&title_color=ff818c&text_color=c6cfdb&card_width=460&disable_animations=true
+          path: assets/generated/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+
+      - name: Commit generated cards
         run: |
-          if git diff --quiet; then
-            echo "Profile is already up to date."
+          git add assets/generated/stats.svg assets/generated/top-langs.svg
+          if git diff --cached --quiet; then
+            echo "Stats are already up to date."
             exit 0
           fi
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md assets/generated/metrics.svg
-          git commit -m "chore: update profile metrics"
+          git commit -m "chore: refresh GitHub stats cards"
           git pull --rebase origin main
-          git push
+          git push origin HEAD:main
