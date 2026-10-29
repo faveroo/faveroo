@@ -2,6 +2,11 @@
   <img src="./assets/header.svg" width="100%" alt="Gabriel Favero Hoffmann — Backend Developer. PHP, Laravel, APIs and automation." />
 </p>
 
+<!-- Animated Laptop Banner from Anmol-Baranwal/Cool-GIFs-For-GitHub -->
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="100%" alt="Animated laptop with code and connected development interfaces" />
+</p>
+
 <p align="center">
   <a href="#about">About</a> &nbsp; / &nbsp;
   <a href="#tech-stack">Tech stack</a> &nbsp; / &nbsp;
@@ -18,10 +23,6 @@ I enjoy turning business rules into web applications, designing APIs and automat
 - **Main stack:** PHP, Laravel and MySQL.
 - **On the frontend:** React, TypeScript and Inertia.js.
 - **Exploring:** Gleam, Go and Python.
-
-<p align="center">
-  <img src="./assets/coding.gif" width="880" alt="Animated code editor typing a PHP developer profile, followed by a terminal running a small illustrative PHP script." />
-</p>
 
 ## Tech stack
 
